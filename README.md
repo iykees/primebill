@@ -1,4 +1,6 @@
-# README
+# Primebill App
+
+hello my name is iyke ofuebo and and this is my ruby on rails app
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
